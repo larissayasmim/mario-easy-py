@@ -8,7 +8,7 @@
       Harvard course exercise
 <br>
   </h2>
-  <h4 align="center">Developed with C programming language</h4>
+  <h4 align="center">Developed with Python programming language</h4>
   <p align="center">
   <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/mario-easy-py?color=yellow">
   <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/mario-easy-py?color=red">
